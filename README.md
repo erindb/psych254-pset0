@@ -3,3 +3,7 @@ This repository is a result of working through a [tutorial](https://docs.google.
 Thank you so, so much for making that document useful!
 
 (omggggg)
+
+--------
+
+fwiw, this doesn't seem to have rendered markdown without the .md extension...
